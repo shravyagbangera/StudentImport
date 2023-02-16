@@ -1,0 +1,44 @@
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\bin\Debug\ImportStudent.exe.config
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\bin\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\bin\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.csproj.AssemblyReference.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.FormImportStudent.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.Properties.Resources.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.csproj.GenerateResource.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.csproj.CoreCompileInputs.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent\ImportStudent\obj\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\bin\Debug\ImportStudent.exe.config
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\bin\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\bin\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.csproj.AssemblyReference.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.FormImportStudent.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.Properties.Resources.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.csproj.GenerateResource.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.csproj.CoreCompileInputs.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 1\ImportStudent\obj\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\bin\Debug\ImportStudent.exe.config
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\bin\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\bin\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.csproj.AssemblyReference.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.FormImportStudent.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.Properties.Resources.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.csproj.GenerateResource.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.csproj.CoreCompileInputs.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3\ImportStudent\obj\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\bin\Debug\ImportStudent.exe.config
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\bin\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\bin\Debug\ImportStudent.pdb
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.csproj.AssemblyReference.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.FormImportStudent.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.Properties.Resources.resources
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.csproj.GenerateResource.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.csproj.CoreCompileInputs.cache
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.exe
+C:\Users\ShravyaGBangera\source\repos\ImportStudent - 3 -bckup\ImportStudent\obj\Debug\ImportStudent.pdb
